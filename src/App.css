@@ -1,0 +1,7 @@
+.bg-custom-gradient {
+    background: linear-gradient(107.91deg, #EAABF0 7.37%, #4623E9 95.19%);
+  }
+
+  .scrollable-table::-webkit-scrollbar {
+    width: 0px; /* Adjust width of the scrollbar */
+  }
